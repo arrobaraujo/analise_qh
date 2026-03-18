@@ -1,0 +1,12 @@
+name: format_qh
+title: format_qh
+username: arrobaraujo
+account: arrobaraujo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16929345
+bundleId: 11726534
+url: https://arrobaraujo.shinyapps.io/format_qh/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
